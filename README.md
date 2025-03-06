@@ -77,3 +77,6 @@ cat ~/Library/Application\ Support/Steam/steamapps/common/Hollow\ Knight/BepInEx
 ## Enjoy!
 
 Have fun exploring Hollow Knight with these mods. Hope you enjoy the enhanced experience!
+
+## Gameplay
+https://drive.google.com/file/d/1ZKWbKg48RvyqXQl3p10FKXoSor2NYcSY/view?usp=sharing
